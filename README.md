@@ -16,3 +16,9 @@
 
 ## 📈 Thingspeak
 [Thingspeak](https://thingspeak.mathworks.com/channels/2975872)
+
+## 🛠 Funcionamento do projeto
+- Primeiro você deve rodar o circuito no wokwi
+- Após isso, simule temperaturas e os índices UV através dos sensores
+- Verifique as mudanças no Thignspeak
+- As informações são enviadas para a aplicação java
